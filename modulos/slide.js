@@ -60,7 +60,8 @@ function updateNav() {
 
 function updateDisplay() {
     let stSlide = document.querySelector(".slide-image")
-    let margin = "-" + (230 * index) + "px"
+    const heightOf = document.querySelector(".slide-image").clientHeight
+    let margin = "-" + (heightOf * index) + "px"
 
     stSlide.style.marginTop=margin;
 }
