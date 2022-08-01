@@ -24,4 +24,4 @@ Há varias outras maneiras de se fazer isso, mas entendendo o que está acontece
 
 Fazer esse pequeno projeto me custou 2 - 3 dias e muito desespero com os erros que eu mesmo criava, mas me rendeu muito conhecimento prático que eu precisava adquirir. Ainda tenho muito a aprender e pretendo sempre melhorar esse código, aplicando conceitos e novidades que eu aprender. Obrigado!
 
-<img src="./assets/img/slide funcionando.gif" alt="Slide em ação"/>
+<img src="./assets/imgs/slide funcionando.gif" alt="Slide em ação"/>
